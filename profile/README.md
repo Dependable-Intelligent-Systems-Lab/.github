@@ -1,3 +1,3 @@
-Dependable Intelligent Systems Lab
+![Dependable Intelligent Systems Lab](https://github.com/Dependable-Intelligent-Systems-Lab/.github/blob/main/Figures/dependable_ai_fig1.jpg)
 
-Hello
+# Dependable Intelligent Systems Lab
