@@ -12,6 +12,7 @@
   - [XWhy: eXplain Why with SMILE -- Statistical Model-agnostic Interpretability with Local Explanations](https://github.com/Dependable-Intelligent-Systems-Lab/xwhy)
   - [D-ACE: Dataset Assessment and Characteristics Evaluation](https://github.com/Dependable-Intelligent-Systems-Lab/Dataset-Characteristics)
   - [Fairness Evaluation vs. Distributional Shift](https://github.com/Dependable-Intelligent-Systems-Lab/Fairness_vs_Distributional_Shift)
+  - [APEP-ML: Adversarial Poisonings using Evolutionary Processes for Machine Learning](https://github.com/koo-ec/APEP-ML/blob/main/README.md)
   
 * Optimization Projects:
   - [Quantum-based Fick's Law Algorithm (QFLA) for Optimization](https://github.com/Dependable-Intelligent-Systems-Lab/Quantum-Fick-s-Law-Algorithm)
