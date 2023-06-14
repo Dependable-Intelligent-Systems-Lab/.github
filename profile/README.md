@@ -5,7 +5,7 @@
 # ⚗️ Current Research Projects
 * Dependability Modelling Projects:
   - [HIP-HOPS](https://hip-hops.co.uk/)
-  - [SafeDrones](https://github.com/Dependable-Intelligent-Systems-Lab/SafeDrones) A Prototype for Executable Digital Dependable Identifier (EDDI)
+  - [SafeDrones:](https://github.com/Dependable-Intelligent-Systems-Lab/SafeDrones) A Prototype for Executable Digital Dependable Identifier (EDDI)
   
 * Dependable AI Projects:
   - [SafeML: Exploring Techniques for Safety Monitoring of Machine Learning Classifiers](https://github.com/ISorokos/SafeML)
