@@ -13,6 +13,7 @@
   - [D-ACE: Dataset Assessment and Characteristics Evaluation](https://github.com/Dependable-Intelligent-Systems-Lab/Dataset-Characteristics)
   - [Fairness Evaluation vs. Distributional Shift](https://github.com/Dependable-Intelligent-Systems-Lab/Fairness_vs_Distributional_Shift)
   - [APEP-ML: Adversarial Poisonings using Evolutionary Processes for Machine Learning](https://github.com/koo-ec/APEP-ML/blob/main/README.md)
+  - [MA'AT: Machine learning Audit and Assessment for Trustworthiness and fairness (will be Public Soon!)](https://github.com/Dependable-Intelligent-Systems-Lab/MA-AT-Machine-learning-Audit-and-Assessment-for-Trustworthiness-and-fairness)
   
 * Optimization Projects:
   - [Quantum-based Fick's Law Algorithm (QFLA) for Optimization](https://github.com/Dependable-Intelligent-Systems-Lab/Quantum-Fick-s-Law-Algorithm)
